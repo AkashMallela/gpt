@@ -8,7 +8,7 @@ function App() {
   const API_KEY = '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';
   const [typing,setTyping] = useState(false);
   const [messages, setMessages] = useState([{
-    message:"Hi there ! I'm your Jaanu",
+    message:"Hi there ! I'm your Avi",
     sender:"ChatGPT"
   }]);
   const handleSend = async ( message) =>{
